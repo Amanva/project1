@@ -1,7 +1,7 @@
 #include <iostream>
 #include <list>
 #include <string>
-#include "part3c.h"
+#include "par3c.h"
 
 using namespace std;
 
