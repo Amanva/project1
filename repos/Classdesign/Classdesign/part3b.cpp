@@ -19,17 +19,6 @@ public:
     
 };
 
-class order{
-    void myorder() {
-
-    }
-
-};
-int main() {
-    store list;
-    list.myFunction();
-    return 0;
-}
 
 
 
